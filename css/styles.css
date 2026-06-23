@@ -328,6 +328,7 @@ svg { fill: currentColor; }
 .logo-badge--light { background: #ffffff; }
 .logo-badge--dark  { background: #11161f; }
 .logo-badge--gb    { background: #292429; }
+.logo-badge--rockwool { background: #c6000e; }
 .logo-badge--sm    { height: 48px; max-width: 100%; }
 .mini-card .logo-badge { display: flex; width: fit-content; max-width: 100%; margin-bottom: .9rem; }
 .tl-blocks { display: grid; gap: 1.2rem; }
